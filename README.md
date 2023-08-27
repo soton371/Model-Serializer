@@ -18,3 +18,18 @@
 
 when add new models items then configure admin.py
 also make migrate
+
+#######################
+Django Admin - Create User
+py manage.py createsuperuser
+
+Username: soton
+Email address: soton@dummymail.com
+Password:
+Password (again):
+This password is too short. It must contain at least 8 characters.
+This password is too common.
+This password is entirely numeric.
+Bypass password validation and create user anyway? [y/N]:y
+
+py manage.py runserver
