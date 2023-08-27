@@ -21,6 +21,7 @@ also make migrate
 
 #######################
 Django Admin - Create User
+
 py manage.py createsuperuser
 
 Username: soton
